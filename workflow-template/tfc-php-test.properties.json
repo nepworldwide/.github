@@ -1,0 +1,10 @@
+{
+    "name": "TFC PHP test workflow",
+    "description": "Runs tests when creating a PR for a TFC PHP project.",
+    "categories": [
+        "PHP"
+    ],
+    "filePatterns": [
+        "composer.lock$"
+    ]
+}
